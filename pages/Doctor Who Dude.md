@@ -13,6 +13,9 @@ Whatever you want. **Bold** and _italic_ text and even [links](http://google.com
 2. b
 3. c
 
+> This is a blockquote
+> FTW
+
 ---
 
 ## Heading 2
