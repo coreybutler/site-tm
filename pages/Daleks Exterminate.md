@@ -1,7 +1,7 @@
 # This worked from code!
 Are carriage returns handled?
 
-Test
+Testing ~~nothing~~
 
 Whatever you want. **Bold** and _italic_ text and even [links](http://google.com).
 
