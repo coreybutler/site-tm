@@ -6,4 +6,4 @@ This is a simple test.
 - [x] test 2
 - 3
 
-~~test~~
+~~testing~~
