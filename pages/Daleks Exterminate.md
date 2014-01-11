@@ -14,7 +14,7 @@ Whatever you want. **Bold** and _italic_ text and even [links](http://google.com
 3. c
 
 > This is a blockquote
-> FTW
+> FTW.
 
 ---
 
