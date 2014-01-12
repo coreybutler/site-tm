@@ -1,4 +1,4 @@
-Tina-Michelle is a [Certified Personal Trainer](http://www.ideafit.com/profile/tina-michelle-pittsley), Dance Instructor, and Creator of [Move Your Axis](http://moveyouraxis.com)&trade;.
+Tina-Michelle is a [Certified Personal Trainer](http://www.ideafit.com/profile/tina-michelle-pittsley), Dance Instructor, and Creator of [Move Your Axis](http://moveyouraxis.com).
 
 - Personal Trainer Certification (American Council on Exercise)
 - CPR/AED Certification (Infant, Child, and Adult)
@@ -18,10 +18,10 @@ She was embarking on her career as a professional dancer when a vehicle unexpect
 
 ## Philosophy | Approach
 
-Since “we all have our stories”, Tina-Michelle’s private training is tailored for the individual. She works with people to define their goals and provide focus. Because we are always developing, Tina-Michelle continually re-evaluates to provide a solid program that ensures achievement. 
+Since "we all have our stories", Tina-Michelle's private training is tailored for the individual. She works with people to define their goals and provide focus. Because we are always developing, Tina-Michelle continually re-evaluates to provide a solid program that ensures achievement. 
 
 Tina-Michelle believes that a healthy lifestyle is more easily adapted when the approach is both manageable and desirable. Drawing upon her diverse background and extensive experience with rehabilitation, Tina-Michelle also implements corrective exercise and cognition in her program design. A strong foundation is the key to enhancing performance. The confidence that ensues is a side benefit.
 
 ## Ventures
 
-Tina-Michelle was primarily a private trainer, but taught her dance-fitness classes publicly. When demand quickly grew, however, Move Your Axis&trade; evolved from dance-fitness into a well-rounded lifestyle program to provide greater availability to enthusiasts. The array of options allows for a more individual approach to a healthy lifestyle. Move Your Axis&trade; is available [live](http://live.moveyouraxis.com) and (soon to be) [virtually](http://live.moveyouraxis.com).
+Tina-Michelle was primarily a private trainer, but taught her dance-fitness classes publicly. When demand quickly grew, however, Move Your Axis evolved from dance-fitness into a well-rounded lifestyle program to provide greater availability to enthusiasts. The array of options allows for a more individual approach to a healthy lifestyle. Move Your Axis is available [live](http://live.moveyouraxis.com) and (soon to be) [virtually](http://live.moveyouraxis.com).
