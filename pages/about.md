@@ -8,7 +8,7 @@ Tina-Michelle is a [Certified Personal Trainer](http://www.ideafit.com/profile/t
 - A.A. Business Technology
 - Paralegal Certificate
 
-## Experience
+## Experiences
 
 Tina-Michelle has been active in dance since the age of 2. Initially, she studied ballet, tap, jazz, gymnastics, modern, and pointe. She later began exploring international rhythms, such as Latin, West African, Haitian Folkloric, Afro-Cuban, and Bellydance.
 
