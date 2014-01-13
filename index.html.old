@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Tina-Michelle</title>
+    <META http-equiv="refresh" content="5;URL=http://www.tina-michelle.com/about">
+		<script>
+			setTimeout(function(){
+				window.location = "./about";
+			},500);
+		</script>
+  </head>
+</html>
