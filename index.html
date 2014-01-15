@@ -21,19 +21,28 @@
 			}
 			
 			.page.page-left {
-				background: #efefef;
-				color: #2e1919;
+				background: #eae6e3;
+				color: #333;/*#2e1919;*/
 			}
 			
 			.credentials {
 				border-radius: 6px !important;
 				background: rgba(0,0,0,.2);
+				/*padding: 70px 12px 32px 16px;*/
 				padding: 3px 12px 32px 16px;
-				margin: 6px 0 10px 70px;
+				margin: 23px 0 10px 70px;
 				float: right;
 				width: 22%;
 				text-align: left;
+				position: relative;
 			}
+			/*.credentials > img {
+				position: absolute;
+				top:-85px;
+				left: 25%;
+				margin: auto;
+				border: 8px solid #333;
+			}*/
 			
 			li {
 				list-style: none;
@@ -74,6 +83,33 @@
 				width: 100%;
 				padding: 20px;
 				margin: -20px 0 0 0;
+			}
+			header > nav {
+				margin-left: 0px !important;
+			}
+			header > nav > div > a {
+				font-size: 25px;
+				font-family: cb;
+				padding: 4px;
+				color: #666;
+			}
+			header > nav > div > a:hover {
+				color: #efefef;
+			}
+			
+			.side-right > header > nav {
+				position: absolute;
+				top: 20px;
+				right: 20px;
+			}
+			.side-right > header > nav > div > a:hover {
+				color: #336699 !important;
+			}
+			.open-right > .intro > .side-right > header > nav {
+				display: none;
+			}
+			.page-left > .page-inner > section > p > a {
+				color: #b32424 !important;
 			}
 			/*
 			.splitlayout.open-right {
@@ -128,30 +164,6 @@
 					background: url(./img/tina320.png) bottom right;
 				}
 			}*/
-			header > nav {
-				margin-left: 0px !important;
-			}
-			header > nav > div > a {
-				font-size: 25px;
-				font-family: cb;
-				padding: 4px;
-				color: #666;
-			}
-			header > nav > div > a:hover {
-				color: #efefef;
-			}
-			
-			.side-right > header > nav {
-				position: absolute;
-				top: 20px;
-				right: 20px;
-			}
-			.side-right > header > nav > div > a:hover {
-				color: #336699 !important;
-			}
-			.open-right > .intro > .side-right > header > nav {
-				display: none;
-			}
 		</style>
 	</head>
 	<body>
@@ -164,13 +176,13 @@
 							-->
 							<nav>
 								<div class="hint--bounce hint--rounded hint--bottom" data-hint="moveyouraxis.com"><a href="http://moveyouraxis.com" target="_blank" class="icon-globe"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow MYA on Facebook for promos and free advice."><a href="http://facebook.com/moveyouraxis" target="_blank" class="icon-facebook"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow MYA on Twitter for promos and updates."><a href="http://twitter.com/moveyouraxis" target="_blank" class="icon-twitter"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Like MYA? Say so on Yelp!"><a href="http://www.yelp.com" target="_blank" class="icon-yelp"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Join the MYA meetup group."><a href="http://www.meetup.com/move-your-axis" target="_blank" class="icon-meetup"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Facebook."><a href="http://facebook.com/moveyouraxis" target="_blank" class="icon-facebook"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Twitter."><a href="http://twitter.com/moveyouraxis" target="_blank" class="icon-twitter"></a></div>
+								<!--<div class="hint--bounce hint--rounded hint--bottom" data-hint="Like MYA? Say so on Yelp!"><a href="http://www.yelp.com" target="_blank" class="icon-yelp"></a></div>-->
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Join the meetup group!"><a href="http://www.meetup.com/move-your-axis" target="_blank" class="icon-meetup"></a></div>
 							</nav>
 						</header>
-						<div class="intro-content" style="padding-top: 63px;">
+						<div class="intro-content" style="padding-top: 28px;">
 							<div class="xxprofile"><img src="img/mya.png" alt="profile1"></div>
 							<h1><span></span><span>&laquo; more</span></h1>
 						</div>
@@ -180,12 +192,12 @@
 						<header>
 							<nav>
 								<a href="https://medium.com/@rhythmnmovement" target="_blank" class="hint--bounce hint--rounded hint--left" data-hint="Tina-Michelle writes!"><img src="http://static.coreybutler.com/images/icons/medium.png"></a><br/>
-								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on LinkedIn" style="margin-top: 8px;"><a href="http://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487" target="_blank" class="icon-linkedin"></a></div>
+								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on LinkedIn." style="margin-top: 8px;"><a href="http://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487" target="_blank" class="icon-linkedin"></a></div>
 							</nav>
 						</header>
 						<div class="intro-content">
 							<div class="profilex"><!--<img src="img/profile.png" alt="profile2">--></div>
-							<h1><span>Tina-Michelle </span><span>more &raquo;</span></h1>
+							<h1><span style="font-size:84px !important;">Tina-Michelle <div style="height:56px;width:0px;"></div></span><span>more &raquo;</span></h1>
 						</div>
 						<div class="overlay"></div>
 					</div>
@@ -197,6 +209,7 @@
 						</section>
 						<section>
 							<div class="credentials">
+								<!--<img src="img/profile.png"/>-->
 								<li>Personal Trainer Certification</li>
 								<li class="subtitle">American Council on Exercise</li>
 								<li>CPR/AED Certification</li>
@@ -248,8 +261,8 @@
 						<section>
 							<h2>Who Trains With Tina-Michelle?</h2>
 							<p>
-								Tina-Michelle’s private sessions include individual, group, and special programs
-								(including school, corporate, and independent &amp; assisted living). Her clients come 
+								Tina-Michelle’s private sessions include individual, group, and special programs.
+								Her clients come 
 								from all walks of life, but what sets them apart is their determination. They are 
 								also quality-seekers who value their time. Tina-Michelle’s clients enjoy being 
 								challenged on a multitude of levels because they have a strong desire to see what 
@@ -260,18 +273,23 @@
 						<section>
 							<h2>Rates</h2>
 							<p>Rates vary depending on number of participants, mileage (15+ miles one way) and frequency:</p>
-							<li>Individual: $100/hour</li>
+							<li>Individual: $110/hour</li>
 							<li>Group: $65/hour (per person)</li>
-							<p>Special Programs: Please contact directly with the details of your request.</p>
-							<p>Contact: tina@tina-michelle.com</p>
+							<li>Special Programs: Please contact directly with the details of your request</li>
+							<p></p>
+						</section>
+						<section>
+							<h2>Contact</h2>
+							<p>info@tina-michelle.com</p>
 						</section>
 						<section>
 							<h2>Ventures</h2>
 							<p>
-								Tina-Michelle was primarily a private trainer, but taught her dance-fitness classes publicly. When demand 
-								quickly grew, however, Move Your Axis&trade; evolved from dance-fitness into the well-rounded lifestyle 
-								program it is today. Now there is greater availability to enthusiasts and the array of options allow for a more 
-								individual approach to a healthy lifestyle.
+								Tina-Michelle was primarily a private trainer, but taught her dance-fitness 
+								classes publicly. When demand quickly grew, however, Move Your Axis&trade;
+								evolved from dance-fitness into the well-rounded lifestyle program it is today. 
+								Now there is greater availability to enthusiasts and the array of options allow 
+								for a more individualized approach to a healthy lifestyle.
 								Move Your Axis&trade; is available <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.
 							</p>
 						</section>
@@ -284,9 +302,11 @@
 				<div class="page page-left">
 					<div class="page-inner">
 						<section>
+							<h2>The Program</h2>
 							<p>The <b>MOVE YOUR AXIS&trade;</b> lifestyle program is inspired by cultures around the world. Its features are designed to help achieve personal goals for healthy living. Immerse yourself in a stimulating experience and emerge with a new perspective...</p>
 						</section>
 						<section>
+							<h2>The Experiences</h2>
 							<h3>Bust Your Axis&trade;</h3>
 							<p>The strength and conditioning experience.  Increase strength, speed, and agility with a balanced, full body workout.  Prime for endurance and fire the right muscles.  Enhance athletic performance and everyday function.</p>
 
@@ -307,13 +327,16 @@
 						</section>
 						<section>
 							<h2>Who enjoys the Move Your Axis&trade; Lifestyle Program?</h2>
-							<p>Athletic ninjas, intellectual explorers, and growth seekers – to name a few. Essentially: Anyone who is 
-unsatisfied with stagnation.</p>
-							<p> Move Your Axis enthusiasts have a thirst for new challenges and mastering missions. For them, it’s 
+							<p>Athletic ninjas, intellectual explorers, and growth seekers (to name a few). Essentially, anyone who is unsatisfied with stagnation.</p>
+							<p> Move Your Axis&trade; enthusiasts have a thirst for new challenges and mastering missions. For them, it’s 
 							about the journey. They are the ones who want to step out of their comfort zone and into their life.</p>
-							<h3>Availability:</h3>
+						</section>
+						<section>
+							<h2>Availability</h2>
 							<p>The unique Move Your Axis™ Lifestyle Program is exclusively taught by Tina-Michelle and is delivered <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.</p>
-							<h3>Contact</h3>
+						</section>
+						<section>
+							<h2>Contact</h2>
 							<p>info@moveyouraxis.com</p>
 						</section>
 					</div><!-- /page-inner -->
