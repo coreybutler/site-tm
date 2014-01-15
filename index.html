@@ -11,6 +11,8 @@
 		<link rel="shortcut icon" href="../favicon.ico">
 		<link rel="stylesheet" type="text/css" href="css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<link rel="stylesheet" type="text/css" href="css/cb-embedded.css" />
+		<link rel="stylesheet" type="text/css" href="http://static.coreybutler.com/css/hint.css"/>
 		<script src="js/modernizr.custom.js"></script>
 		<style>
 			.splitlayout.open-right,
@@ -126,6 +128,30 @@
 					background: url(./img/tina320.png) bottom right;
 				}
 			}*/
+			header > nav {
+				margin-left: 0px !important;
+			}
+			header > nav > div > a {
+				font-size: 25px;
+				font-family: cb;
+				padding: 4px;
+				color: #666;
+			}
+			header > nav > div > a:hover {
+				color: #efefef;
+			}
+			
+			.side-right > header > nav {
+				position: absolute;
+				top: 20px;
+				right: 20px;
+			}
+			.side-right > header > nav > div > a:hover {
+				color: #336699 !important;
+			}
+			.open-right > .intro > .side-right > header > nav {
+				display: none;
+			}
 		</style>
 	</head>
 	<body>
@@ -133,15 +159,17 @@
 			<div id="splitlayout" class="splitlayout">
 				<div class="intro">
 					<div class="side side-left">
-						<!--<header class="codropsheader clearfix">
-							<span>Blueprint <span class="bp-icon bp-icon-about" data-content="The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration."></span></span>
-							<h1>Split Layout</h1>
+						<header class="codropsheader clearfix">
+							<!--<span>Blueprint <span class="bp-icon bp-icon-about" data-content="The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration."></span></span>
+							-->
 							<nav>
-								<a href="http://tympanus.net/Blueprints/OnScrollEffectLayout/" class="bp-icon bp-icon-prev" data-info="previous Blueprint"><span>Previous Blueprint</span></a>
-								<a href="http://tympanus.net/codrops/?p=16693" class="bp-icon bp-icon-drop" data-info="back to the Codrops article"><span>back to the Codrops article</span></a>
-								<a href="http://tympanus.net/codrops/category/blueprints/" class="bp-icon bp-icon-archive" data-info="Blueprints archive"><span>Go to the archive</span></a>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="moveyouraxis.com"><a href="http://moveyouraxis.com" target="_blank" class="icon-globe"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow MYA on Facebook for promos and free advice."><a href="http://facebook.com/moveyouraxis" target="_blank" class="icon-facebook"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow MYA on Twitter for promos and updates."><a href="http://twitter.com/moveyouraxis" target="_blank" class="icon-twitter"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Like MYA? Say so on Yelp!"><a href="http://www.yelp.com" target="_blank" class="icon-yelp"></a></div>
+								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Join the MYA meetup group."><a href="http://www.meetup.com/move-your-axis" target="_blank" class="icon-meetup"></a></div>
 							</nav>
-						</header>-->
+						</header>
 						<div class="intro-content" style="padding-top: 63px;">
 							<div class="xxprofile"><img src="img/mya.png" alt="profile1"></div>
 							<h1><span></span><span>&laquo; more</span></h1>
@@ -149,6 +177,12 @@
 						<div class="overlay"></div>
 					</div>
 					<div class="side side-right">
+						<header>
+							<nav>
+								<a href="https://medium.com/@rhythmnmovement" target="_blank" class="hint--bounce hint--rounded hint--left" data-hint="Tina-Michelle writes!"><img src="http://static.coreybutler.com/images/icons/medium.png"></a><br/>
+								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on LinkedIn" style="margin-top: 8px;"><a href="http://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487" target="_blank" class="icon-linkedin"></a></div>
+							</nav>
+						</header>
 						<div class="intro-content">
 							<div class="profilex"><!--<img src="img/profile.png" alt="profile2">--></div>
 							<h1><span>Tina-Michelle </span><span>more &raquo;</span></h1>
@@ -191,7 +225,7 @@
 								front of the car she was riding in. Although the injuries left her bedridden for three years, 
 								she refused to accept that she would "never walk again" and could "kiss her 
 								dancing days goodbye". On March 20, 2006, she walked her first mile and began 
-								to write the <a href="https://medium.com/inspire-the-world/e95487e53e27" target="_blank">rest of her life story</a>.
+								to write the rest of her life <a href="https://medium.com/inspire-the-world/e95487e53e27" target="_blank">story</a>.
 							</p>
 						</section>
 						<section>
@@ -278,7 +312,7 @@ unsatisfied with stagnation.</p>
 							<p> Move Your Axis enthusiasts have a thirst for new challenges and mastering missions. For them, it’s 
 							about the journey. They are the ones who want to step out of their comfort zone and into their life.</p>
 							<h3>Availability:</h3>
-							<p>The unique Move Your Axis™ Lifestyle Program is exclusively taught by Tina-Michelle and is delivered live and (soon to be) virtually.</p>
+							<p>The unique Move Your Axis™ Lifestyle Program is exclusively taught by Tina-Michelle and is delivered <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.</p>
 							<h3>Contact</h3>
 							<p>info@moveyouraxis.com</p>
 						</section>
