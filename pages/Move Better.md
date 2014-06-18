@@ -1,4 +1,4 @@
-<u><h1 style="font-weight:900;">MOVE BETTER</h1></u>
+#**MOVE BETTER**#
 
 Have you ever thought any of the following?  
 
@@ -16,21 +16,21 @@ __*•	What if the reason I have trouble with changing directions suddenly is be
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
 
-The list of questions could go on and on.  The point is, it’s really for everybody - whether you are a dancer, triathlete, or someone who has never been able to touch his or her toes.  
+The list of questions could go on and on.  The point is, it’s really for everybody.  
 
-Part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  For a limited time, I am offering a special.
+From dancers, to athletes, to someone who has never been able to touch his or her toes, part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  
 
 ---
 
-Here’s how it will work:
+Here’s how it’ll work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
-2.)	Anyone who has a screening on June 26th, 28th, or 29th will be eligible for the **MOVE BETTER** program that will be offered for 3 weeks in July.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
+2.)	I’ll offer a 3 week program: **MOVE BETTER**.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
 
 ---
 
-<u><h1 style="font-weight:900;">SCREENING</h1></u>
+#**SCREENING**#
 
 **On-site 1/2 hour one-on-one session: $18**
 
@@ -49,21 +49,24 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-<u><b>AVAILABILITY (ON-SITE):</b></u>
+##**AVAILABILITY:**##
 
-####*__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*####
+####ON-SITE####
+
+*__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
+
 
 8:00 - 9:30 a.m.
 
 12:00 - 12:30 p.m.
 
-####*__Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)__*####
+*__Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)__*
 
 9:00 - 11:00 a.m.
 
 3:00 - 4:00 p.m.
 
-<u><b>AVAILABILITY (ONLINE):</b></u>
+####ONLINE:####
 
 Thursday, June 26th 
 
@@ -71,41 +74,51 @@ Saturday, June 28th
 
 Sunday, June 29th
 
-##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
+#####**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**#####
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
 ---
 
-<u><h1 style="font-weight:900;">"MOVE BETTER" PACKAGES</h1></u>
+##**3 WEEK MOVE BETTER PROGRAM**##
 
-####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120 per person ($40 per session)**####
-####__*3 ONLINE ONE-ON-ONE SESSIONS: $90 per person ($30 per session)__####
+####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**####
+
 ####__*1 ONLINE ONE-ON-ONE SESSION: $40__####
 
-__**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
+####__*3 ONLINE ONE-ON-ONE SESSIONS: $90__####
 
-__**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I will help you form a group*__
+__**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, tubing, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?), other.  This equipment is not required.*__
 
-<u><b>AVAILABILITY (ON-SITE):</b></u>
+##**AVAILABILITY:**##
 
 ####Flamencura Music & Dance (7113 Burnet Road, #111 Austin, TX 78757)####	
 
-Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, 26th)
+#####**Saturdays from 8:15 – 9:15 a.m.**####
 
-Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
+*(July 12th, 19th, 26th)*     
+
+#####**Sundays from 10 – 11 a.m.**#####
+
+*(July 13th, 20th, 27th)*
 
 ####Pease Park (1100 Kingsbury Street, Austin, TX 78705)####
 
-Thursdays from 6:15 – 7:15 p.m. (July 10th, 17th, 24th)
+#####**Thursdays from 6:15 – 7:15 p.m.**#####
 
-Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, 26th)
+*(July 10th, 17th, 24th)*
 
-Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
+#####**Saturdays from 8:15 – 9:15 a.m.**#####
 
-<u><b>AVAILABILITY (ON-LINE):</b></u>
-####Thursday, July 10th - Sunday, July 27th.#### 
+*(July 12th, 19th, 26th)* 	
 
-##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
+#####**Sundays from 10 – 11 a.m.**#####
+
+*(July 13th, 20th, 27th)*
+
+
+####Online training will be available between Thursday, July 10th and Sunday, July 27th.#### 
+
+#####**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**#####
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__  First-come, first-serve.
