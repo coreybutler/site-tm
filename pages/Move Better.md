@@ -114,6 +114,6 @@ __**Note: For those who wish to train online, please indicate whether you have a
 
 ####Online training will be available between Thursday, July 10th and Sunday, July 27th.#### 
 
-#####**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**#####
+##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__  First-come, first-serve.
