@@ -121,10 +121,8 @@ __**Note: For those who wish to train online, please indicate whether you have a
 *(July 13th, 20th, 27th)*
 
 
-Saturdays from 8:15 – 9:15 a.m.
-July 12th, 19th, 26th 
-	Sundays from 10 – 11 a.m.
-July 13th, 20th, 27th 
-
 Online training will be available between Thursday, July 10th and Sunday, July 27th. 
+
+##Availability will be updated [here](http://www.tina-michelle.com/availability).##
+
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  On-site and online sessions must be reserved by Wednesday, July 2nd.  First-come, first-serve.
