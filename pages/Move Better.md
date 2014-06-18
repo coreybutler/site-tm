@@ -82,11 +82,11 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 ##**3 WEEK MOVE BETTER PROGRAM**##
 
-**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**
+####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**####
 
-__*1 ONLINE ONE-ON-ONE SESSION: $40__
+####__*1 ONLINE ONE-ON-ONE SESSION: $40__####
 
-__*3 ONLINE ONE-ON-ONE SESSIONS: $90__
+####__*3 ONLINE ONE-ON-ONE SESSIONS: $90__####
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
 
