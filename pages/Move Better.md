@@ -101,9 +101,7 @@ Thursdays from 6:15 – 7:15 p.m. (July 10th, 17th, 24th)
 
 Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, 26th)
 
-#####**Sundays from 10 – 11 a.m.**#####
-
-*(July 13th, 20th, 27th)*
+Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
 
 <u><b>AVAILABILITY (ON-LINE):</b></u>
 ####Thursday, July 10th - Sunday, July 27th.#### 
