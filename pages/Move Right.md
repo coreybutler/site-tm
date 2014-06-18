@@ -53,11 +53,12 @@ Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)
 
 8:00 - 9:30 a.m.
 12:00 - 12:30 p.m.
-3:00 - 4 p.m.
 
 Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)
 
 9 - 11 a.m.
+3 - 4 p.m.
+
 
 
 Online screenings will be available on: 
