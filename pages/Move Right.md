@@ -72,9 +72,9 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 Online screenings will be [available](http://www.tina-michelle.com/availability) on: 
 
-| Thursday, June 26th |
-| Saturday, June 28th |
-| Sunday, June 29th |  
+Thursday, June 26th 
+Saturday, June 28th
+Sunday, June 29th
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to share. 
 MOVE RIGHT
