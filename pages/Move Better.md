@@ -26,7 +26,7 @@ Here’s how it will work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
-2.)	I’ll offer a 3 week program: **MOVE BETTER**.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
+2.)	Those who have a screening on July 26th, 28th, or 29th will be eligible for the **MOVE BETTER** program that will be offered for 3 weeks in July.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
 
 ---
 
@@ -77,7 +77,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 ---
 
-<u><h1 style="font-weight:900;">"MOVE BETTER" PACKAGES</h1></u>
+<u><h1 style="font-weight:900;">"MOVE BETTER" PROGRAM</h1></u>
 
 ####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120 per person ($40 per session)**####
 ####__*3 ONLINE ONE-ON-ONE SESSIONS: $90 per person ($30 per session)__####
