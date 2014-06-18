@@ -51,7 +51,9 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-####**AVAILABILITY:**###
+####**AVAILABILITY**###
+
+####On-site:###
 
 *__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
 
@@ -66,6 +68,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 3:00 - 4:00 p.m.
 
+####Online:###
 
 Online screenings will be [available](http://www.tina-michelle.com/availability) on: 
 
