@@ -83,7 +83,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 ####__*3 ONLINE ONE-ON-ONE SESSIONS: $90 per person ($30 per session)__####
 ####__*1 ONLINE ONE-ON-ONE SESSION: $40__####
 
-__**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
+__**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  <u>This equipment is not required.</u>*__
 
 __**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I will help you form a group*__
 
