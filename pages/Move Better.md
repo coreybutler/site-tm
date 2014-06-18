@@ -94,7 +94,7 @@ __*3 ONLINE ONE-ON-ONE SESSIONS: $90__
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
 
-AVAILABILITY:
+####**AVAILABILITY:**####
 Flamencura Music & Dance
 7113 Burnet Road, #111 Austin, TX 78757	Pease Park
 1100 Kingsbury Street, Austin, TX 78705
