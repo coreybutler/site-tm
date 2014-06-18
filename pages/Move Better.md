@@ -42,7 +42,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 1.) Skype or Google Hangouts
 
-2.) One 4 foot dowel rod (or similar object – like a broom without the head)
+2.) One 4 foot dowel rod (or similar object – e.g., a broom without the head)
 
 3.) One tape measure
 
