@@ -47,9 +47,13 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-AVAILABILITY:
+**AVAILABILITY:**
+
 Saturday, June 28th at Mueller 
-1311 Philomena Street, Austin, TX 78723	Sunday, June 29th at Pease Park
+1311 Philomena Street, Austin, TX 78723	
+8:00 - 9:30 a.m.
+
+Sunday, June 29th at Pease Park
 1100 Kingsbury Street, Austin, TX 78705
 8:00 – 8:30 a.m.	9:00 – 9:30 a.m.
 8:30 – 9:00 a.m.  	9:30 – 10:00 a.m.
