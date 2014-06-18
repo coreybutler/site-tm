@@ -49,7 +49,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-####**AVAILABILITY (ON-SITE):**####
+<u><b>AVAILABILITY (ON-SITE):</b></u>
 
 ####*__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*####
 
@@ -63,7 +63,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 3:00 - 4:00 p.m.
 
-####AVAILABILITY (ONLINE):#####
+<u><b>AVAILABILITY (ONLINE):</b></u>
 
 Thursday, June 26th 
 
