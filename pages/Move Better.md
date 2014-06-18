@@ -85,6 +85,8 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
 
+__**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I will help you form a group*__
+
 ####**AVAILABILITY:**####
 
 ####Flamencura Music & Dance (7113 Burnet Road, #111 Austin, TX 78757)####	
