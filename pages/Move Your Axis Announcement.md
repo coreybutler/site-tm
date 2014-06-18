@@ -1,6 +1,6 @@
-##**MOVE YOUR AXIS ANNOUNCEMENT**##
+##**ANNOUNCEMENT REGARDING MOVE YOUR AXIS AND PRIVATE DANCE INSTRUCTION**##
 
-Move Your Axis needs to be on hold until further notice.  It is entirely possible that this will become permanent.  
+Move Your Axis and private dance instruction need to be on hold until further notice.  It is entirely possible that this will become permanent.  
 
 For those of you who were unaware, I was hit by a truck last summer while I was out running and sustained head to toe injuries.  After taking a financial break, I am back to visiting with my doctors again.  We are only able to address two injuries at a time, so Right Shoulder and Right Knee volunteered.  
 
