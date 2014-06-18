@@ -1,6 +1,5 @@
 # Available Online Only 
 ##(Central Standard Time)
-###For Screenings Only (Special Program):
 
 | Thursday, June 26, 2014 |
 | :----------------------------- |
@@ -28,7 +27,6 @@
 
 
 ---
-###For the Move Right Program:
 
 | Friday, July 11, 2014 |
 | :----------------------------- |
