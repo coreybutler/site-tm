@@ -28,7 +28,7 @@ Here’s how it’ll work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
-2.)	I’ll offer a 3 week program: **MOVE RIGHT**.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
+2.)	I’ll offer a 3 week program: **MOVE BETTER**.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
 
 ---
 
@@ -80,7 +80,7 @@ Sunday, June 29th
 
 #Availability will be updated [here](http://www.tina-michelle.com/availability).#
 
-Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/moveright). 
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
 3 WEEK MOVE BETTER PROGRAM
 
