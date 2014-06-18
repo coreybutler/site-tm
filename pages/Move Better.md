@@ -17,9 +17,7 @@ __*•    Is there such thing as being too flexible?*__
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
 
-The list of questions could go on and on.  The point is, everybody could use a movement screen - whether you are a dancer, Navy SEAL, or someone who has never been able to touch his or her toes.  
-
-Part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  For a limited time, I am offering a special.
+The list of questions could go on and on.  Dancers, Navy SEALs, those who have never been able to touch their toes,.. a movement screen is for everyone.  It is an important tool to help identify weaknesses, imbalances, asymmetries, and limitations and is part of what I offer in my [personal training sessions](http://tina-michelle.com/).  For a limited time, I am offering a special.  
 
 ---
 
