@@ -18,7 +18,7 @@ __*•	I’d like to execute a flawless pivot turn or keep up with everyone else
 
 The list of questions could go on and on.  The point is, it’s really for everybody - whether you are a dancer, triathlete, or someone who has never been able to touch his or her toes.  
 
-Part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  For a limited time, I am offering special pricing.
+Part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  For a limited time, I am offering a special.
 
 ---
 
