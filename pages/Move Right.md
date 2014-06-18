@@ -49,18 +49,16 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 **AVAILABILITY:**
 
-Saturday, June 28th at Mueller 
-1311 Philomena Street, Austin, TX 78723	
-8:00 - 9:30 a.m.
+Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)	
 
-Sunday, June 29th at Pease Park
-1100 Kingsbury Street, Austin, TX 78705
-8:00 – 8:30 a.m.	9:00 – 9:30 a.m.
-8:30 – 9:00 a.m.  	9:30 – 10:00 a.m.
-9:00 – 9:30 a.m.	10:00 – 10:30 a.m.
-12:00 p.m. – 12:30 p.m.		10:30 – 11:00 a.m.
-	3:00 – 3:30 p.m.
-	3:30  - 4 p.m.
+8:00 - 9:30 a.m.
+12:00 - 12:30 p.m.
+3:00 - 4 p.m.
+
+Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)
+
+9 - 11 a.m.
+
 
 Online screenings will be available on: 
 Thursday, June 26th 
