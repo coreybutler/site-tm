@@ -1,2 +1,59 @@
 # Movement Screening and Program #
 
+Part of what I offer in my personal training sessions is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  It is a tool for dancers, athletes, someone who has never been able to touch his or her toes… It’s also for anyone who has ever thought about or wanted to improve upon any of the following:
+•    Is this nagging pain something I need to see a doctor about or something I can take care of on my own?
+•	I have a hard time balancing on one leg.
+•	I’m tired of throwing my back out.
+•	How can I become faster or more powerful?
+•	What if the reason I have trouble with changing directions suddenly is because I’m limited in my upper back or my ankle? 
+•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.
+The list of questions could go on and on.  The point is, it’s really for everybody.  Here’s how it’ll work:
+1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
+
+2.)	I’ll offer a 3 week program: MOVE RIGHT.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.   
+SCREENING
+ON-SITE 1/2 HOUR ONE-ON-ONE SESSION..…………………………………………………….$18
+*ONLINE 1/2 HOUR ONE-ON-ONE SESSION………………………………………….………….$12
+*Note: Those who wish to screen online will need access to the following:
+1.) Skype or Google Hangouts
+2.) One 4 foot dowel rod (or similar object – like a broom without the head)
+3.) One tape measure
+4.) One 3 – 5 foot long string
+5.) One large towel
+AVAILABILITY:
+Saturday, June 28th at Mueller 
+1311 Philomena Street, Austin, TX 78723	Sunday, June 29th at Pease Park
+1100 Kingsbury Street, Austin, TX 78705
+8:00 – 8:30 a.m.	9:00 – 9:30 a.m.
+8:30 – 9:00 a.m.  	9:30 – 10:00 a.m.
+9:00 – 9:30 a.m.	10:00 – 10:30 a.m.
+12:00 p.m. – 12:30 p.m.		10:30 – 11:00 a.m.
+	3:00 – 3:30 p.m.
+	3:30  - 4 p.m.
+
+Online screenings will be available on: 
+Thursday, June 26th 
+Saturday, June 28th 
+Sunday, June 29th  
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to share. 
+MOVE RIGHT
+3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people) …………..……………………………….$120
+*1 ONLINE ONE-ON-ONE SESSION ……………...…...…………………………………..……….$40
+*3 ONLINE ONE-ON-ONE SESSIONS………………….…………………………………..……….$90
+*Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required. 
+
+AVAILABILITY:
+Flamencura Music & Dance
+7113 Burnet Road, #111 Austin, TX 78757	Pease Park
+1100 Kingsbury Street, Austin, TX 78705
+Saturdays from 8:15 – 9:15 a.m.
+July 12th, 19th, 26th 	Thursdays from 6:15 – 7:15 p.m.
+July 10th, 17th, 24th 
+Sundays from 10 – 11 a.m.
+July 13th, 20th, 27th 	Saturdays from 8:15 – 9:15 a.m.
+July 12th, 19th, 26th 
+	Sundays from 10 – 11 a.m.
+July 13th, 20th, 27th 
+
+Online training will be available between Thursday, July 10th and Sunday, July 27th. 
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  On-site and online sessions must be reserved by Wednesday, July 2nd.  First-come, first-serve.
