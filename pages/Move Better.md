@@ -112,9 +112,3 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 <a href="https://www.facebook.com/tinamichellespage"><img src="http://www.underconsideration.com/brandnew/archives/facebook_logo_detail.gif" height="50"/></a>
 <a href="https://twitter.com/rhythmnmovement"><img src= "https://pbs.twimg.com/profile_images/2284174758/v65oai7fxn47qv9nectx.png" height="50"/></a>
 <a href="https://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487"><img src="http://press.linkedin.com/display-media/206/4" width="50"/></a>
-
-https://twitter.com/rhythmnmovement
-
-
-
-
