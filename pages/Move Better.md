@@ -51,7 +51,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 ##**AVAILABILITY:**##
 
-####On-site####
+####ON-SITE####
 
 *__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
 
@@ -66,7 +66,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 3:00 - 4:00 p.m.
 
-####Online:####
+####ONLINE:####
 
 Thursday, June 26th 
 
