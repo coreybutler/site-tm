@@ -8,9 +8,9 @@ __*•    I have a hard time balancing on one leg.  I wonder how I can get bette
 
 __*•	I’m tired of throwing my back out.*__
 
-__*•	How can I become faster or more powerful?*__
+__*•	How can I become faster or stronger?*__
 
-__*•	What if the reason I have trouble with changing directions suddenly is because I’m limited in my upper back or my ankle?*__
+__*•	What if the reason I have trouble with changing directions suddenly is because I have limited range of motion in my upper back or my ankle?*__
 
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
