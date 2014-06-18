@@ -18,24 +18,35 @@ The list of questions could go on and on.  The point is, it’s really for every
 
 From dancers, to athletes, to someone who has never been able to touch his or her toes, part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  
 
+---
+
 Here’s how it’ll work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
 2.)	I’ll offer a 3 week program: **MOVE RIGHT**.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
 
+---
+
 **SCREENING**
 
-**ON-SITE 1/2 HOUR ONE-ON-ONE SESSION: $18
+**ON-SITE 1/2 HOUR ONE-ON-ONE SESSION: $18**
 
-***ONLINE 1/2 HOUR ONE-ON-ONE SESSION: $12** 
+__*ONLINE 1/2 HOUR ONE-ON-ONE SESSION: $12__
 
-*Note: Those who wish to screen online will need access to the following:
+
+__**Note: Those who wish to screen online will need access to the following:*__
+
 1.) Skype or Google Hangouts
+
 2.) One 4 foot dowel rod (or similar object – like a broom without the head)
+
 3.) One tape measure
+
 4.) One 3 – 5 foot long string
+
 5.) One large towel
+
 AVAILABILITY:
 Saturday, June 28th at Mueller 
 1311 Philomena Street, Austin, TX 78723	Sunday, June 29th at Pease Park
