@@ -73,7 +73,7 @@ Sunday, June 29th
 
 ##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
-Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-served.  Tell your friends and family too so you can all take advantage.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
 ---
 
@@ -108,4 +108,4 @@ Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
 
 ##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
-Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__  First-come, first-serve.
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__  First-come, first-served.
