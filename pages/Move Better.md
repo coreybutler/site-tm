@@ -85,7 +85,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  <u>This equipment is not required.</u>*__
 
-__**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I'll introduce you to some new friends.*__
+__**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I'll help you form one.*__
 
 <u><b>AVAILABILITY (ON-SITE):</b></u>
 
