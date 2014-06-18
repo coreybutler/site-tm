@@ -74,13 +74,13 @@ Saturday, June 28th
 
 Sunday, June 29th
 
-#####**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**#####
+##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
 ---
 
-##**3 WEEK MOVE BETTER PROGRAM**##
+#**MOVE BETTER PROGRAM**#
 
 ####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**####
 
