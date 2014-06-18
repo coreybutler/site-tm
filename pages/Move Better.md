@@ -22,7 +22,7 @@ From dancers, to athletes, to someone who has never been able to touch his or he
 
 ---
 
-Here’s how it’ll work:
+Here’s how it will work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
