@@ -1,5 +1,5 @@
-# Available Online Only 
-##(Central Standard Time)
+# Available Online Only
+###(Central Standard Time)
 
 | Thursday, June 26, 2014 |
 | :----------------------------- |
