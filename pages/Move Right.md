@@ -2,6 +2,8 @@
 
 Have you ever thought any of the following?  
 
+---
+
 __*•    Is this nagging pain something I need to see a doctor about or something I can take care of on my own?*__
 
 __*•	I have a hard time balancing on one leg.  I wonder how I can get better at it.*__
@@ -13,6 +15,8 @@ __*•	How can I become faster or more powerful?*__
 __*•	What if the reason I have trouble with changing directions suddenly is because I’m limited in my upper back or my ankle?*__
 
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
+
+---
 
 The list of questions could go on and on.  The point is, it’s really for everybody.  
 
