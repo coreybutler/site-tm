@@ -87,7 +87,7 @@ __**Note: For those who wish to train online, please indicate whether you have a
 
 __**Note: For those who wish to train on-site and do not have a group formed, please indicate your preferred time and location and I will help you form a group*__
 
-####**AVAILABILITY:**####
+<u><b>AVAILABILITY (ON-SITE):</b></u>
 
 ####Flamencura Music & Dance (7113 Burnet Road, #111 Austin, TX 78757)####	
 
@@ -113,8 +113,8 @@ __**Note: For those who wish to train on-site and do not have a group formed, pl
 
 *(July 13th, 20th, 27th)*
 
-
-####Online training will be available between Thursday, July 10th and Sunday, July 27th.#### 
+<u><b>AVAILABILITY (ON-LINE):</b></u>
+####Between Thursday, July 10th and Sunday, July 27th.#### 
 
 ##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
