@@ -1,6 +1,7 @@
 # Available Online Only 
 ##(Central Standard Time)##
 *Please contact info@tina-michelle.com with your preferred time and duration.*
+#####Dates marked with (*) are available for Screening and Move Right Program 
 
 ---
 | Monday, June 23, 2014 |
@@ -16,7 +17,7 @@
 
 ---
 
-| Thursday, June 26, 2014 |
+| Thursday, June 26, 2014 |  |
 | :----------------------------- |
 | 6:00 a.m. - 6:30 a.m.          |
 | 3:00 p.m. - 4:00 p.m.          |
