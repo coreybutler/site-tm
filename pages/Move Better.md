@@ -2,7 +2,6 @@
 
 Have you ever thought any of the following?  
 
-
 __*•    Is this nagging pain something I need to see a doctor about or something I can take care of on my own?*__
 
 __*•    I have a hard time balancing on one leg.  I wonder how I can get better at it.*__
