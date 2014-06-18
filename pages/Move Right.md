@@ -80,7 +80,8 @@ Sunday, June 29th
 
 #Availability will be updated [here](http://www.tina-michelle.com/availability).#
 
-Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to share. 
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/moveright). 
+
 MOVE RIGHT
 3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people) …………..……………………………….$120
 *1 ONLINE ONE-ON-ONE SESSION ……………...…...…………………………………..……….$40
