@@ -1,5 +1,5 @@
 # Available Online Only 
-####(Central Standard Time)####
+##(Central Standard Time)##
 *Please contact info@tina-michelle.com with your preferred time and duration.*
 
 ---
