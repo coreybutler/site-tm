@@ -114,7 +114,7 @@ __**Note: For those who wish to train on-site and do not have a group formed, pl
 *(July 13th, 20th, 27th)*
 
 <u><b>AVAILABILITY (ON-LINE):</b></u>
-####Between Thursday, July 10th and Sunday, July 27th.#### 
+####Thursday, July 10th - Sunday, July 27th.#### 
 
 ##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
