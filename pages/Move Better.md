@@ -30,7 +30,7 @@ Here’s how it will work:
 
 ---
 
-#**SCREENING**#
+#**SCREENING PACKAGES**#
 
 **On-site 1/2 hour one-on-one session: $18**
 
@@ -80,7 +80,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 ---
 
-#**MOVE BETTER PROGRAM**#
+#**MOVE BETTER PROGRAM PACKAGES**#
 
 ####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120 per person ($40 per session)**####
 
