@@ -1,10 +1,10 @@
 # Movement Screening and Program #
 
-Have you ever thought about or wanted to improve any of the following?  
+Have you ever thought any of the following?  
 
 •    Is this nagging pain something I need to see a doctor about or something I can take care of on my own?
 
-•	I have a hard time balancing on one leg.|
+•	I have a hard time balancing on one leg.  I wonder how I can get better at it.
 
 •	I’m tired of throwing my back out.
 
