@@ -125,4 +125,4 @@ Online training will be available between Thursday, July 10th and Sunday, July 2
 
 ##Availability will be updated [here](http://www.tina-michelle.com/availability).##
 
-Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  On-site and online sessions must be reserved by Wednesday, July 2nd.  First-come, first-serve.
+Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__First-come, first-serve.
