@@ -108,3 +108,10 @@ Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
 ##**AVAILABILITY WILL BE UPDATED [HERE](http://www.tina-michelle.com/availability).**##
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site and online Move Better sessions must be reserved by Wednesday, July 2nd.*__  First-come, first-served.
+
+<a href=""><img src="http://www.underconsideration.com/brandnew/archives/facebook_logo_detail.gif" height="50"/></a>
+<a href="https://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487"><img src="http://press.linkedin.com/display-media/206/4" width="50"/></a>
+
+
+
+
