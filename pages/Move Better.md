@@ -78,19 +78,19 @@ Saturday, June 28th
 
 Sunday, June 29th
 
----
-
 ##Availability will be updated [here](http://www.tina-michelle.com/availability).##
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
+---
+
 ##**3 WEEK MOVE BETTER PROGRAM**##
 
-3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120
+**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**
 
-*1 ONLINE ONE-ON-ONE SESSION: $40
+__*1 ONLINE ONE-ON-ONE SESSION: $40__
 
-*3 ONLINE ONE-ON-ONE SESSIONS: $90
+__*3 ONLINE ONE-ON-ONE SESSIONS: $90__
 
 *Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required. 
 
