@@ -49,9 +49,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-##**AVAILABILITY:**##
-
-####ON-SITE####
+####**ON-SITE AVAILABILITY:**####
 
 *__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
 
@@ -66,7 +64,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 3:00 - 4:00 p.m.
 
-####ONLINE:####
+####ONLINE AVAILABILITY:#####
 
 Thursday, June 26th 
 
@@ -88,7 +86,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
 
-##**AVAILABILITY:**##
+####**AVAILABILITY:**####
 
 ####Flamencura Music & Dance (7113 Burnet Road, #111 Austin, TX 78757)####	
 
