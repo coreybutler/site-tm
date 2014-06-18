@@ -1,4 +1,4 @@
-**#MOVE YOUR AXIS ANNOUNCEMENT#**
+##**MOVE YOUR AXIS ANNOUNCEMENT**##
 
 Move Your Axis needs to be on hold until further notice.  It is entirely possible that this will become permanent.  
 
