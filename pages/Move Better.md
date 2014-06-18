@@ -82,7 +82,7 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 #**MOVE BETTER PROGRAM**#
 
-####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120**####
+####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120 per person ($40 per session)**####
 
 ####__*1 ONLINE ONE-ON-ONE SESSION: $40__####
 
