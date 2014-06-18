@@ -1,7 +1,7 @@
 # Available Online Only 
 ##(Central Standard Time)##
 *Please contact info@tina-michelle.com with your preferred time and duration.*
-#####Note: Dates marked with (*) are available for Screening and Move Right Program 
+#####Note: Dates marked with (*) are available for Screening and Move Better Program 
 
 ---
 | Monday, June 23, 2014 |
