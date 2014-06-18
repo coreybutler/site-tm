@@ -1,6 +1,6 @@
 # Available Online Only 
-_(Central Standard Time)_
-Please contact info@tina-michelle.com with your preferred time
+####(Central Standard Time)####
+*Please contact info@tina-michelle.com with your preferred time and duration.*
 
 ---
 | Monday, June 23, 2014 |
