@@ -15,3 +15,4 @@
 |                                |
 | Sunday, June 29th at Pease Park |
 | 9:00-9:30 a.m.                 |
+
