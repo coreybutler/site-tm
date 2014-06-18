@@ -32,7 +32,7 @@ Here’s how it’ll work:
 
 ---
 
-**SCREENING**
+##**SCREENING**##
 
 **On-site 1/2 hour one-on-one session: $18**
 
