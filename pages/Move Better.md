@@ -51,14 +51,13 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 ####**AVAILABILITY (ON-SITE):**####
 
-*__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
-
+####*__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*####
 
 8:00 - 9:30 a.m.
 
 12:00 - 12:30 p.m.
 
-*__Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)__*
+####*__Sunday, June 29th at Pease Park (1100 Kingsbury Street, Austin, TX 78705)__*####
 
 9:00 - 11:00 a.m.
 
