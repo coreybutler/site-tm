@@ -90,17 +90,17 @@ __**Note: For those who wish to train on-site and do not yet have a group in min
 
 ####Flamencura Music & Dance (7113 Burnet Road, #111 Austin, TX 78757)####	
 
-Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, 26th)
+Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, and 26th)
 
-Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
+Sundays from 10 – 11 a.m. (July 13th, 20th, and 27th)
 
 ####Pease Park (1100 Kingsbury Street, Austin, TX 78705)####
 
-Thursdays from 6:15 – 7:15 p.m. (July 10th, 17th, 24th)
+Thursdays from 6:15 – 7:15 p.m. (July 10th, 17th, and 24th)
 
-Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, 26th)
+Saturdays from 8:15 – 9:15 a.m. (July 12th, 19th, and 26th)
 
-Sundays from 10 – 11 a.m. (July 13th, 20th, 27th)
+Sundays from 10 – 11 a.m. (July 13th, 20th, and 27th)
 
 <u><b>AVAILABILITY (ON-LINE):</b></u>
 ####Thursday, July 10th - Sunday, July 27th.#### 
