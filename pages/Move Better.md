@@ -2,7 +2,6 @@
 
 Have you ever thought any of the following?  
 
----
 
 __*•    Is this nagging pain something I need to see a doctor about or something I can take care of on my own?*__
 
@@ -16,7 +15,6 @@ __*•	What if the reason I have trouble with changing directions suddenly is be
 
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
----
 
 The list of questions could go on and on.  The point is, it’s really for everybody.  
 
@@ -51,9 +49,9 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 5.) One large towel
 
-####**AVAILABILITY**###
+##**AVAILABILITY:**##
 
-####On-site:####
+####On-site####
 
 *__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
 
@@ -69,8 +67,6 @@ __**Note: Those who wish to screen online will need access to the following:*__
 3:00 - 4:00 p.m.
 
 ####Online:####
-
-Online screenings will be on: 
 
 Thursday, June 26th 
 
