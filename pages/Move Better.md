@@ -12,6 +12,8 @@ __*•	How can I become faster or stronger?*__
 
 __*•	What if the reason I have trouble with changing directions suddenly is because I have limited range of motion in my upper back or my ankle?*__
 
+__*•    Is there such thing as being too flexible?*__
+
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
 
