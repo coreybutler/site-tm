@@ -1,4 +1,4 @@
-# Movement Screening and Program #
+#**MOVE BETTER**#
 
 Have you ever thought any of the following?  
 
@@ -32,7 +32,7 @@ Here’s how it’ll work:
 
 ---
 
-##**SCREENING**##
+#**SCREENING**#
 
 **On-site 1/2 hour one-on-one session: $18**
 
