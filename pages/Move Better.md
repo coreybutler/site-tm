@@ -117,7 +117,7 @@ __**Note: For those who wish to train online, please indicate whether you have a
 *(July 13th, 20th, 27th)*
 
 
-Online training will be available between Thursday, July 10th and Sunday, July 27th. 
+####Online training will be available between Thursday, July 10th and Sunday, July 27th.#### 
 
 ##Availability will be updated [here](http://www.tina-michelle.com/availability).##
 
