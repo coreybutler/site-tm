@@ -16,9 +16,7 @@ __*•	What if the reason I have trouble with changing directions suddenly is be
 __*•	I’d like to execute a flawless pivot turn or keep up with everyone else on the basketball court.*__
 
 
-The list of questions could go on and on.  The point is, it’s really for everybody.  
-
-Whether you are a dancer, triathlete, or someone who has never been able to touch his or her toes, part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  
+The list of questions could go on and on.  The point is, it’s really for everybody - whether you are a dancer, triathlete, or someone who has never been able to touch his or her toes.  Part of what I offer in my [personal training sessions](http://www.tina-michelle.com) is a movement screen to help identify weaknesses, imbalances, asymmetries, and limitations.  For a limited time, I am offering special pricing
 
 ---
 
