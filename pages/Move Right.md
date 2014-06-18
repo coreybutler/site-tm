@@ -34,9 +34,9 @@ Here’s how it’ll work:
 
 **SCREENING**
 
-**ON-SITE 1/2 HOUR ONE-ON-ONE SESSION: $18**
+**On-site 1/2 hour one-on-one session: $18**
 
-__*ONLINE 1/2 HOUR ONE-ON-ONE SESSION: $12__
+__*Online 1/2 hour one-on-one session: $12__
 
 
 __**Note: Those who wish to screen online will need access to the following:*__
