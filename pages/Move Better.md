@@ -53,7 +53,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 ####**AVAILABILITY**###
 
-####On-site:###
+####On-site:####
 
 *__Saturday, June 28th at Mueller (1311 Philomena Street, Austin, TX 78723)__*
 
@@ -68,7 +68,7 @@ __**Note: Those who wish to screen online will need access to the following:*__
 
 3:00 - 4:00 p.m.
 
-####Online:###
+####Online:####
 
 Online screenings will be on: 
 
@@ -78,11 +78,13 @@ Saturday, June 28th
 
 Sunday, June 29th
 
-#Availability will be updated [here](http://www.tina-michelle.com/availability).#
+---
+
+##Availability will be updated [here](http://www.tina-michelle.com/availability).##
 
 Please contact me directly at tina-michelle@moveyouraxis.com with your preferred time and location.  __*On-site screenings must be reserved by Sunday, June 22nd.  Online screenings must be reserved by Tuesday, June 24th.*__  First-come, first-serve.  Tell your friends and family too so you can all take advantage of the special pricing.  Here is the link to [share](http://www.tina-michelle.com/movebetter). 
 
-3 WEEK MOVE BETTER PROGRAM
+##**3 WEEK MOVE BETTER PROGRAM**##
 
 3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120
 
