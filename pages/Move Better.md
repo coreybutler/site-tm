@@ -26,7 +26,7 @@ Here’s how it will work:
 
 1.)	We’ll assess your basic movement patterns during a half hour, one-on-one movement screening.  You’ll receive 3 progressions that you’ll be able to do on your own.  These progressions will be specific to your needs.
 
-2.)	Those who have a screening on July 26th, 28th, or 29th will be eligible for the **MOVE BETTER** program that will be offered for 3 weeks in July.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
+2.)	Those who have a screening on June 26th, 28th, or 29th will be eligible for the **MOVE BETTER** program that will be offered for 3 weeks in July.  These one hour long sessions will include progressions that will continue to be tailored to your needs.  Measurements will be documented and a detailed analysis will be provided to you after our last session.  
 
 ---
 
