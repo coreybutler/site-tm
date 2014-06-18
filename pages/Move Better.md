@@ -77,10 +77,10 @@ Please contact me directly at tina-michelle@moveyouraxis.com with your preferred
 
 ---
 
-<u><h1 style="font-weight:900;">MOVE BETTER PROGRAM</h1></u>
+<u><h1 style="font-weight:900;">MOVE BETTER PACKAGES</h1></u>
 
-####**3 ON-SITE SEMI-PRIVATE PACKAGE (2 – 5 people): $120 per person ($40 per session)**####
-####__*3 ONLINE ONE-ON-ONE PACKAGE: $90 per person ($30 per session)__####
+####**3 ON-SITE SEMI-PRIVATE SESSIONS (2 – 5 people): $120 per person ($40 per session)**####
+####__*3 ONLINE ONE-ON-ONE SESSIONS: $90 per person ($30 per session)__####
 ####__*1 ONLINE ONE-ON-ONE SESSION: $40__####
 
 __**Note: For those who wish to train online, please indicate whether you have access to any of the following equipment: foam roller, tennis or lacrosse ball, theraband, the stick, stability ball, medicine ball (weight?), dumbbell (weight?), kettlebell (weight?).  This equipment is not required.*__
