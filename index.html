@@ -1,365 +1,422 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>Tina-Michelle | Move Your Axis</title>
-		<meta name="description" content="Tina-Michelle is a personal trainer and dance instructor in Austin, TX. She is also the founder of Move Your Axis." />
-		<meta name="keywords" content="tina-michlle, move your axis, mya, dance, fitness, zumba, personal trainer, austin, tx, boston" />
-		<meta name="author" content="Corey Butler" />
-		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" type="text/css" href="css/demo.css" />
-		<link rel="stylesheet" type="text/css" href="css/component.css" />
-		<link rel="stylesheet" type="text/css" href="css/cb-embedded.css" />
-		<link rel="stylesheet" type="text/css" href="http://static.coreybutler.com/css/hint.css"/>
-		<script src="js/modernizr.custom.js"></script>
-		<style>
-			.splitlayout.open-right,
-			.page.page-right {
-				background: transparent !important;
-			}
-			
-			.page.page-left {
-				background: #eae6e3;
-				color: #333;/*#2e1919;*/
-			}
-			
-			.credentials {
-				border-radius: 6px !important;
-				background: rgba(0,0,0,.2);
-				/*padding: 70px 12px 32px 16px;*/
-				padding: 3px 12px 32px 16px;
-				margin: 23px 0 10px 70px;
-				float: right;
-				width: 22%;
-				text-align: left;
-				position: relative;
-			}
-			/*.credentials > img {
-				position: absolute;
-				top:-85px;
-				left: 25%;
-				margin: auto;
-				border: 8px solid #333;
-			}*/
-			
-			li {
-				list-style: none;
-				margin: 27px 0 0px 0;
-				color: #cee1eb;
-				font-weight: 300 !important;
-			}
-			
-			li.subtitle {
-				font-size: small;
-				font-weight: 300;
-				margin-top: 0px;
-				color: #97a8b2;
-			}
-			
-			a.back-left {color: #333;}
-			
-			.side-right {
-				color: #666;
-			}
-			
-			.side-left {
-				background: #353535;
-				outline: 1px solid #353535;
-				color: #eae6e3;
-			}
-			
-			.side-right > .intro-content > h1 > span:nth-child(2):before {
-				background: #333 !important;
-			}
-			
-			div.intro > .side.side-right {
-				-webkit-box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.93);
-				-moz-box-shadow:    3px 0px 5px 0px rgba(0, 0, 0, 0.93);
-				box-shadow:         3px 0px 5px 0px rgba(0, 0, 0, 0.93);
-			}
-			.highlightbar {
-				background: #121212;
-				width: 100%;
-				padding: 20px;
-				margin: -20px 0 0 0;
-			}
-			header > nav {
-				margin-left: 0px !important;
-			}
-			header > nav > div > a {
-				font-size: 25px;
-				font-family: cb;
-				padding: 4px;
-				color: #666;
-			}
-			header > nav > div > a:hover {
-				color: #efefef;
-			}
-			
-			.side-right > header > nav {
-				position: absolute;
-				top: 20px;
-				right: 20px;
-			}
-			.side-right > header > nav > div > a:hover {
-				color: #336699 !important;
-			}
-			.open-right > .intro > .side-right > header > nav {
-				display: none;
-			}
-			.page-left > .page-inner > section > p > a {
-				color: #b32424 !important;
-			}
-			.unique > li {
-				font-weight: 300;
-				font-size: 26px !important;
-				list-style-type:square;
-			}
-			/*
-			.splitlayout.open-right {
-				background-repeat: no-repeat !important;
-				background-attachment: fixed !important;
-			}
-			.page.page-right > * {
-				margin-right: 19%;
-			}
-			@media all and (max-height: 2112px) {
-				.splitlayout.open-right{
-					background: url(./img/tina2112.png) bottom right;
-				}
-			}
-			@media all and (max-height: 1080px) {
-				.splitlayout.open-right{
-					background: url(./img/tina1080.png) bottom right;
-				}
-			}
-			@media all and (max-height: 1024px) {
-				.splitlayout.open-right{
-					background: url(./img/tina1024.png) bottom right;
-				}
-			}
-			@media all and (max-height: 960px) {
-				.splitlayout.open-right{
-					background: url(./img/tina960.png) bottom right;
-				}
-			}
-			@media all and (max-height: 800px) {
-				.splitlayout.open-right{
-					background: url(./img/tina800.png) bottom right;
-				}
-			}
-			@media all and (max-height: 768px) {
-				.splitlayout.open-right{
-					background: url(./img/tina768.png) bottom right;
-				}
-			}
-			@media all and (max-height: 640px) {
-				.splitlayout.open-right{
-					background: url(./img/tina640.png) bottom right;
-				}
-			}
-			@media all and (max-height: 480px) {
-				.splitlayout.open-right{
-					background: url(./img/tina480.png) bottom right;
-				}
-			}
-			@media all and (max-height: 320px) {
-				.splitlayout.open-right{
-					background: url(./img/tina320.png) bottom right;
-				}
-			}*/
-		</style>
-	</head>
-	<body>
-		<div class="container">
-			<div id="splitlayout" class="splitlayout">
-				<div class="intro">
-					<div class="side side-left">
-						<header class="codropsheader clearfix">
-							<!--<span>Blueprint <span class="bp-icon bp-icon-about" data-content="The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration."></span></span>
-							-->
-							<nav>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="moveyouraxis.com"><a href="http://moveyouraxis.com" target="_blank" class="icon-globe"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Facebook."><a href="http://facebook.com/moveyouraxis" target="_blank" class="icon-facebook"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Twitter."><a href="http://twitter.com/moveyouraxis" target="_blank" class="icon-twitter"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Like Move Your Axis&trade;? Say so on Yelp!"><a href="http://www.yelp.com/biz/move-your-axis-austin" target="_blank" class="icon-yelp"></a></div>
-								<div class="hint--bounce hint--rounded hint--bottom" data-hint="Join the meetup group!"><a href="http://www.meetup.com/move-your-axis" target="_blank" class="icon-meetup"></a></div>
-							</nav>
-						</header>
-						<div class="intro-content" style="padding-top: 28px;">
-							<div class="xxprofile"><img src="img/mya.png" alt="profile1"></div>
-							<h1><span></span><span>&laquo; more</span></h1>
-						</div>
-						<div class="overlay"></div>
-					</div>
-					<div class="side side-right">
-						<header>
-							<nav>
-								<a href="https://medium.com/@rhythmnmovement" target="_blank" class="hint--bounce hint--rounded hint--left" data-hint="Tina-Michelle writes!"><img src="http://static.coreybutler.com/images/icons/medium.png"></a><br/>
-								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle.com on Facebook." style="margin-top: 8px;display: block;"><a href="https://www.facebook.com/tinamichellespage" target="_blank" class="icon-facebook"></a></div>
-								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on Twitter (@rhythmnmovement)." style="margin-top: 8px;display: block;"><a href="https://twitter.com/rhythmnmovement" target="_blank" class="icon-twitter"></a></div>
-								<div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on LinkedIn." style="margin-top: 8px;"><a href="http://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487" target="_blank" class="icon-linkedin"></a></div>
-							</nav>
-						</header>
-						<div class="intro-content">
-							<div class="profilex"><!--<img src="img/profile.png" alt="profile2">--></div>
-							<h1><span style="font-size:84px !important;">Tina-Michelle <div style="height:56px;width:0px;"></div></span><span>more &raquo;</span></h1>
-						</div>
-						<div class="overlay"></div>
-					</div>
-				</div><!-- /intro -->
-				<div class="page page-right">
-					<div class="page-inner">
-						<section>
-							<p class="highlightbar">Tina-Michelle is a <a href="http://www.acefitness.org/acefit/trainer_profile.aspx?acecp=dyy7328" target="_blank">Certified Personal Trainer</a>, Dance Instructor, and Creator of <a href="http://moveyouraxis.com" target="_blank">Move Your Axis&trade;</a>.</p>
-						</section>
-						<section>
-							<div class="credentials">
-								<!--<img src="img/profile.png"/>-->
-								<li>Certified Personal Trainer (CPT)</li>
-								<li class="subtitle">American Council on Exercise</li>
-								<li>CPR/AED Certification</li>
-								<li class="subtitle">Infant, Child, &amp; Adult</li>
-								<li>First Aid Certification</li>
-								<li class="subtitle">Including SIDS/SBS</li>
-								<li>B.S. Psychology</li>
-								<li class="subtitle">Concentration in Human Development</li>
-								<li>Gerontology Certificate</li>
-								<li>A.A. Business Technology</li>
-								<li>Paralegal Certificate</li>
-							</div>
-							<h2>Background</h2>
-							<p>
-								Tina-Michelle has been active in dance since the age of two. Initially, she 
-								studied Ballet, Tap, Jazz, Gymnastics, Pointe, Modern, and Hip Hop. She later 
-								began exploring international rhythms, such as Latin, West African, Haitian 
-								Folkloric, Afro-Cuban, and Bellydance.
-							</p>
-							<p>
-								Fitness went hand in hand with dance. Participating in both team and individual sports, boot camps, 
-								and personal training, she has always enjoyed practicing her athleticism. Her avid interest in health and 
-								fitness is what led her to pursue her degrees and certifications.
-							</p>
-							<p>
-								She was embarking on her career as a professional dancer when a vehicle unexpectedly turned left in 
-								front of the car she was riding in. Although the injuries left her bedridden for three years, 
-								she refused to accept that she would "never walk again" and could "kiss her 
-								dancing days goodbye". On March 20, 2006, she walked her first mile and began 
-								to write the rest of her life <a href="https://medium.com/inspire-the-world/e95487e53e27" target="_blank">story</a>.
-							</p>
-						</section>
-						<section>
-							<h2>Philosophy | Approach</h2>
-							<p>
-								Personal growth and development occur throughout the entire lifespan; how much of that is explored is uniquely determined.
-							</p>
-							<p>
-								To facilitate continued progression and achievement, Tina-Michelle collaborates with each individual in an effort to define and redefine goals. Customized programs are meticulously 
-								designed – specific to personal needs. They may include corrective exercise, cognitive fitness, and other relevant tools required for success.
-							</p>
-						</section>
-						<!--<section class="unique">
-							<h2>Benefits</h2>
-							<li>
-								Tina-Michelle’s diverse personal, educational, and professional experiences are insightful when making attainable lifestyle suggestions.
-							</li>
-							<li>	
-								Her formal studies range from nutrition to the human brain. This helps provide comprehensive understanding in areas that perplex many.
-							</li>
-							<li>
-								Her own experience with rehabilitation helps to understand the steps to take in overcoming setbacks.
-							</li>
-							<br/><br/>-->
-						</section>
-						<section>
-							<h2>Who Trains With Tina-Michelle?</h2>
-							<p>
-								Tina-Michelle works with a wide range of people. Many seek help in areas such as chronic pain management, post-orthopedic rehabilitation, special conditions, sports 
-								conditioning, and dance instruction.
-							</p>
-							<p>
-								Injured athletes, older adults who wish to maintain their independence, entrepreneurs seeking balance, aspiring performers, anyone with a health goal... they 
-								all share a sense of determination. They are quality-seekers who value their time and want to maximize their potential.  They are the ones writing the rest of <i>their</i> life story.
-							</p>
-						</section>
-						<section>
-							<h2>Rates</h2>
-							<li>Individual: $125/hour</li>
-							<li>Group: $70/hour (per person)</li>
-							<li>Special Programs: Please contact directly with the details of your request.</li>
-							<p><i>Rates decrease with frequency.</i></p>
-						</section>
-						<section>
-							<h2>Contact</h2>
-							<p>info@tina-michelle.com</p>
-						</section>
-						<!--<section>
-							<h2>Ventures</h2>
-							<p>
-								Tina-Michelle is a private trainer, who taught her dance-fitness classes publicly.  When demand quickly grew, there was a great deal of crossover 
-								between her public classes and private sessions.  To accommodate enthusiasts, she evolved Move Your Axis&trade; into the well-rounded program it is today, 
-								offering an array of choices for 
-								healthy lifestyles. 
-							</p>
-							<p>
-								Move Your Axis&trade; is available <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.
-							</p>
-						</section>-->
-						<section>
-							<h2>Writings</h2>
-							<p>Tina-Michelle's articles can be found on <a href="https://medium.com/@RhythmNMovement" target="_blank">https://medium.com/@RhythmNMovement</a></p>
-						</section>
-					</div><!-- /page-inner -->
-				</div><!-- /page-right -->
-				<div class="page page-left">
-					<div class="page-inner">
-						<section>
-							<h2>The Program</h2>
-							<p>The <b>MOVE YOUR AXIS&trade;</b> lifestyle program is inspired by cultures around the world. Its features are designed to help achieve personal goals for healthy living. Immerse yourself in a stimulating experience and emerge with a new perspective...</p>
-						</section>
-						<section>
-							<h2>The Experiences</h2>
-							<h3>Bust Your Axis&trade;</h3>
-							<p>The strength and conditioning experience.  Increase strength, speed, and agility with a balanced, full body workout.  Prime for endurance and fire the right muscles.  Enhance athletic performance and everyday function.</p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tina-Michelle | Move Your Axis</title>
+    <meta name="description" content="Tina-Michelle is a personal trainer and dance instructor in Austin, TX. She is also the founder of Move Your Axis." />
+    <meta name="keywords" content="tina-michlle, move your axis, mya, dance, fitness, zumba, personal trainer, austin, tx, boston" />
+    <meta name="author" content="Corey Butler" />
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link rel="stylesheet" type="text/css" href="css/cb-embedded.css" />
+    <link rel="stylesheet" type="text/css" href="css/google-embedded.css" />
+    <link rel="stylesheet" type="text/css" href="http://static.coreybutler.com/css/hint.css"/>
+    <script src="js/modernizr.custom.js"></script>
+    <style>
+      .splitlayout.open-right,
+      .page.page-right {
+        background: transparent !important;
+      }
 
-							<h3>Flex Your Axis&trade;</h3>
-							<p>The hybrid of the movement and dance, flexibility, and resistance training.  Develop balance and stability with a variety of approaches that help execute movements that are more efficient and controlled.  Challenge muscles and improve elasticity and mobility.</p>
+      .page.page-left {
+        background: #eae6e3;
+        outline: 5px solid #eae6e3;
+        color: #333;/*#2e1919;*/
+      }
+      .open-left {
+        background-color:#EAE6E3 !important;
+      }
 
-							<h3>Fuel Your Axis&trade;</h3>
-							<p>The nutrition and wellness experience. Uncover tools and resources that facilitate a self-directed lifestyle.  Gain practical skills and awareness of choices in a variety of topics.  Live better.</p>
+      .credentials {
+        border-radius: 6px !important;
+        background: rgba(0,0,0,.2);
+        /*padding: 70px 12px 32px 16px;*/
+        padding: 3px 12px 32px 16px;
+        margin: 23px 0 10px 70px;
+        float: right;
+        width: 31%;
+        text-align: left;
+        position: relative;
+      }
+      /*.credentials > img {
+        position: absolute;
+        top:-85px;
+        left: 25%;
+        margin: auto;
+        border: 8px solid #333;
+      }*/
 
-							<h3>Move Your Axis&trade;</h3>
-							<p>The dance-fitness experience.  The dynamic Move Your Axis™ choreography incorporates dance steps from around the world and delivers an assortment of physiological and psychological benefits.  Learn, laugh, and let go.  Move and be moved by the world around you.</p>
+      li {
+        list-style: none;
+        margin: 27px 0 0px 0;
+        color: #cee1eb;
+        font-weight: 300 !important;
+      }
 
-							<h3>Move Your Axis Further&trade;</h3>
-							<p>The movement and dance experience.  The focus on a specific genre(s) allows for more focus on technique and feel.  Discover and explore.  Find inspiration while soaking in culture.</p>
+      li.subtitle {
+        font-size: small;
+        font-weight: 300;
+        margin-top: 0px;
+        color: #97a8b2;
+      }
 
-							<h3>Relax Your Axis&trade;</h3>
-							<p>The flexibility experience.  Keep The Bod moving through its full range of motion with methods that aid in restoration and recovery.  Stretch muscles and target trigger points.  Come back to your senses.  Renew and rejuvenate.</p>
-						</section>
-						<section>
-							<h2>Who enjoys Move Your Axis&trade;?</h2>
-							<p>Athletic ninjas, intellectual explorers, and growth seekers (to name a few). Essentially, anyone who is unsatisfied with stagnation.</p>
-							<p> Move Your Axis&trade; enthusiasts have a thirst for new challenges and mastering missions. For them, it’s 
-							about the journey. They are the ones who want to step out of their comfort zone and into their life.</p>
-						</section>
-						<section>
-							<h2>Availability</h2>
-							<p>This unique program is exclusively taught by Tina-Michelle and is delivered <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.</p>
-						</section>
-						<section>
-							<h2>Contact</h2>
-							<p>info@moveyouraxis.com</p>
-						</section>
-					</div><!-- /page-inner -->
-				</div><!-- /page-left -->
-				<a href="#" class="back back-right" title="back to intro">&rarr;</a>
-				<a href="#" class="back back-left" title="back to intro">&larr;</a>
-			</div><!-- /splitlayout -->
-		</div><!-- /container -->
-		<script src="js/classie.js"></script>
-		<script src="js/cbpSplitLayout.js"></script>
-	</body>
+      a.back-left {color: #333;}
+
+      .side-right {
+        color: #666;
+      }
+
+      .side-left {
+        background: #353535;
+        outline: 1px solid #353535;
+        color: #eae6e3;
+      }
+
+      .side-right > .intro-content > h1 > span:nth-child(2):before {
+        background: #333 !important;
+      }
+
+      div.intro > .side.side-right {
+        -webkit-box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.93);
+        -moz-box-shadow:    3px 0px 5px 0px rgba(0, 0, 0, 0.93);
+        box-shadow:         3px 0px 5px 0px rgba(0, 0, 0, 0.93);
+      }
+      .highlightbar {
+        background: #121212;
+        width: 100%;
+        padding: 20px;
+        margin: -20px 0 0 0;
+      }
+      header > nav {
+        margin-left: 0px !important;
+      }
+      header > nav > div > a {
+        font-size: 25px;
+        font-family: cb;
+        padding: 4px;
+        color: #666;
+      }
+      header > nav > div > a:hover {
+        color: #efefef;
+      }
+
+      .side-right > header > nav {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+      }
+      .side-right > header > nav > div > a:hover {
+        color: #336699 !important;
+      }
+      .open-right > .intro > .side-right > header > nav {
+        display: none;
+      }
+      .page-left > .page-inner > section > p > a {
+        color: #b32424 !important;
+      }
+      .unique > li {
+        font-weight: 300;
+        font-size: 26px !important;
+        list-style-type:square;
+      }
+      /*
+      .splitlayout.open-right {
+        background-repeat: no-repeat !important;
+        background-attachment: fixed !important;
+      }
+      .page.page-right > * {
+        margin-right: 19%;
+      }
+      @media all and (max-height: 2112px) {
+        .splitlayout.open-right{
+          background: url(./img/tina2112.png) bottom right;
+        }
+      }
+      @media all and (max-height: 1080px) {
+        .splitlayout.open-right{
+          background: url(./img/tina1080.png) bottom right;
+        }
+      }
+      @media all and (max-height: 1024px) {
+        .splitlayout.open-right{
+          background: url(./img/tina1024.png) bottom right;
+        }
+      }
+      @media all and (max-height: 960px) {
+        .splitlayout.open-right{
+          background: url(./img/tina960.png) bottom right;
+        }
+      }
+      @media all and (max-height: 800px) {
+        .splitlayout.open-right{
+          background: url(./img/tina800.png) bottom right;
+        }
+      }
+      @media all and (max-height: 768px) {
+        .splitlayout.open-right{
+          background: url(./img/tina768.png) bottom right;
+        }
+      }
+      @media all and (max-height: 640px) {
+        .splitlayout.open-right{
+          background: url(./img/tina640.png) bottom right;
+        }
+      }
+      @media all and (max-height: 480px) {
+        .splitlayout.open-right{
+          background: url(./img/tina480.png) bottom right;
+        }
+      }
+      @media all and (max-height: 320px) {
+        .splitlayout.open-right{
+          background: url(./img/tina320.png) bottom right;
+        }
+      }*/
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div id="splitlayout" class="splitlayout">
+        <div class="intro">
+          <div class="side side-left">
+            <header class="codropsheader clearfix">
+              <!--<span>Blueprint <span class="bp-icon bp-icon-about" data-content="The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration."></span></span>
+              -->
+              <nav>
+                <div class="hint--bounce hint--rounded hint--bottom" data-hint="moveyouraxis.com"><a href="http://moveyouraxis.com" target="_blank" class="icon-globe"></a></div>
+                <div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Facebook."><a href="http://facebook.com/moveyouraxis" target="_blank" class="icon-facebook"></a></div>
+                <div class="hint--bounce hint--rounded hint--bottom" data-hint="Follow on Twitter."><a href="http://twitter.com/moveyouraxis" target="_blank" class="icon-twitter"></a></div>
+<!--
+                <div class="hint--bounce hint--rounded hint--bottom" data-hint="Like Move Your Axis&trade;? Say so on Yelp!"><a href="http://www.yelp.com/biz/move-your-axis-austin" target="_blank" class="icon-yelp"></a></div>
+                <div class="hint--bounce hint--rounded hint--bottom" data-hint="Join the meetup group!"><a href="http://www.meetup.com/move-your-axis" target="_blank" class="icon-meetup"></a></div>
+-->
+              </nav>
+            </header>
+            <div class="intro-content" style="padding-top: 28px;">
+              <div class="xxprofile"><img src="img/mya.png" alt="profile1"></div>
+              <h1><span></span><span>&laquo; more</span></h1>
+            </div>
+            <div class="overlay"></div>
+          </div>
+          <div class="side side-right">
+            <header>
+              <nav>
+                <a href="https://medium.com/@rhythmnmovement" target="_blank" class="hint--bounce hint--rounded hint--left" data-hint="Tina-Michelle writes!"><img src="http://static.coreybutler.com/images/icons/medium.png"></a><br/>
+                <div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle.com on Facebook." style="margin-top: 8px;display: block;"><a href="https://www.facebook.com/tinamichellespage" target="_blank" class="icon-facebook"></a></div>
+                <div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on Twitter (@rhythmnmovement)." style="margin-top: 8px;display: block;"><a href="https://twitter.com/rhythmnmovement" target="_blank" class="icon-twitter"></a></div>
+                <div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on LinkedIn." style="margin-top: 8px;"><a href="http://www.linkedin.com/pub/tina-michelle-pittsley/32/731/487" target="_blank" class="icon-linkedin"></a></div>
+                <br/><div class="hint--bounce hint--rounded hint--left" data-hint="Follow Tina-Michelle on Google Plus" style="margin-top: 8px;"><a href="https://plus.google.com/u/0/100207239079448872059" target="_blank" class="g icon-gplus" style="font-family: google;"></a></div>
+              </nav>
+            </header>
+            <div class="intro-content">
+              <div class="profilex"><!--<img src="img/profile.png" alt="profile2">--></div>
+              <h1><span style="font-size:84px !important;">Tina-Michelle <div style="height:56px;width:0px;"></div></span><span>more &raquo;</span></h1>
+            </div>
+            <div class="overlay"></div>
+          </div>
+        </div><!-- /intro -->
+        <div class="page page-right">
+          <div class="page-inner">
+            <section>
+              <p class="highlightbar">Tina-Michelle is a <a href="http://www.acefitness.org/acefit/trainer_profile.aspx?acecp=dyy7328" target="_blank">Certified Personal Trainer</a>, specializing in Functional Movement and injury rehabilitation.</p>
+            </section>
+            <section>
+              <div class="credentials">
+                <!--<img src="img/profile.png"/>-->
+                <li>Certified Personal Trainer (CPT)</li>
+                <li class="subtitle">American Council on Exercise</li>
+                <li>Certified Functional Movement Specialist (FMSC) - Levels 1 &amp; 2</li>
+                <li class="subtitle">Functional Movement Systems</li>
+                <li>CPR/AED Certification</li>
+                <li class="subtitle">Infant, Child, &amp; Adult</li>
+                <li>First Aid Certification</li>
+                <li class="subtitle">Including SIDS/SBS</li>
+                <li>B.A. Psychology</li>
+                <li class="subtitle">Concentration in Human Development</li>
+                <li>Gerontology Certificate</li>
+                <li>A.A. Business Technology</li>
+                <li>Paralegal Certificate</li>
+              </div>
+              <h2>About</h2>
+              <p>I am a Certified Personal Trainer, specializing in Functional Movement and injury recovery.</p>
+              <p>
+                As a former dancer and all-around athlete, I have a keen understanding of the human body. I am also personally
+                familiar with the road to recovery and the impact that has on one’s life: After a car crash left me bedridden
+                for three years, I sustained head to toe injuries ten years later when I was hit by a truck while out running.
+              </p>
+              <p>
+                From rehabilitation to athletic development, I integrate Functional Movement Systems to implement exercise
+                with greater accuracy, specificity, and individuality. By identifying asymmetries and limitations, I am able
+                to clearly document measurements and communicate progress and treatment with physicians. By addressing
+                dangerous movement patterns, the focus is kept on performance enhancement, rather than sideline decoration.
+              </p>
+              <p>
+                I hold a degree in Psychology with a concentration in Human Development. This, along with a certificate in
+                Gerontology, has made me acutely aware of the biopsychosocial effects and issues one faces throughout the
+                life span. My studies in the Human Brain and Nutrition round out the thorough approach I take with each
+                unique program design.
+              </p>
+              <p>
+                Ultimately, it is my personal, educational, and professional background that enables me to meet my three main
+                objectives in my work: To help others overcome adversity, increase their well-being, and realize their full
+                potential.
+              </p>
+            </section>
+<!--
+            <section>
+              <h2>Philosophy | Approach</h2>
+              <p>
+                Personal growth and development occur throughout the entire lifespan; how much of that is explored is uniquely determined.
+              </p>
+              <p>
+                To facilitate continued progression and achievement, Tina-Michelle collaborates with each individual in an effort to define and redefine goals. Customized programs are meticulously
+                designed – specific to personal needs. They may include corrective exercise, cognitive fitness, and other relevant tools required for success.
+              </p>
+            </section>
+            <section class="unique">
+              <h2>Benefits</h2>
+              <li>
+                Tina-Michelle’s diverse personal, educational, and professional experiences are insightful when making attainable lifestyle suggestions.
+              </li>
+              <li>
+                Her formal studies range from nutrition to the human brain. This helps provide comprehensive understanding in areas that perplex many.
+              </li>
+              <li>
+                Her own experience with rehabilitation helps to understand the steps to take in overcoming setbacks.
+              </li>
+              <br/><br/>
+            </section>
+-->
+<!--
+            <section>
+              <h2>Who Trains With Tina-Michelle?</h2>
+              <p>
+                Tina-Michelle works with a wide range of people. Many seek help in areas such as chronic pain management, post-orthopedic rehabilitation, special conditions, sports
+                conditioning, and dance instruction.
+              </p>
+              <p>
+                Injured athletes, older adults who wish to maintain their independence, entrepreneurs seeking balance, aspiring performers, anyone with a health goal... they
+                all share a sense of determination. They are quality-seekers who value their time and want to maximize their potential.  They are the ones writing the rest of <i>their</i> life story.
+              </p>
+            </section>
+-->
+            <section>
+              <h2>Rates and Availability</h2>
+              <i>Currently <a href="http://tina-michelle.com/availability" target="_blank" style="color:orange;">available</a> <u style="font-weight: bold;">online only</u> via Skype or Google Hangouts</i>
+              <h4>Online Personal Training Packages:</h4>
+              <ul>
+                <li>1 one hour session: $70</li>
+                <li>4 one hour long sessions: $60 per session</li>
+                <li>8 one hour long sessions: $50 per session</li>
+                <li>12 one hour long sessions: $40 per session</li>
+              </ul>
+              <ul>
+                <i>Express Sessions:</i>
+                <li>$40 per 30 minutes</li>
+                <li>$30 per 20 minutes</li>
+              </ul>
+              <h4>On-Site Personal Training Packages (One-On-One):</h4>
+              <ul>
+                <li>1 one hour session: $125</li>
+                <li>4 one hour long sessions: $115 per session</li>
+                <li>8 one hour long sessions: $105 per session</li>
+                <li>12 one hour long sessions: $95 per session</li>
+              </ul>
+              <h4>On-Site Semi-Private Group Training Packages (2-5 People):</h4>
+              <ul>
+                <li>1 one hour session: $85 per person</li>
+                <li>4 one hour long sessions: $75 per person, per session</li>
+                <li>8 one hour long sessions: $65 per person, per session</li>
+                <li>12 one hour long sessions: $55 per person, per session</li>
+              </ul>
+              <h4>Please contact info@tina-michelle.com for the following:</h4>
+              <ul>
+                <li>Presentations</li>
+                <li>Workshops</li>
+                <li>Special Events</li>
+                <li>Wellness Programs (e.g. Workplace, After-School, Retirement and Assisted Living)</li>
+              </ul>
+            </section>
+            <section>
+              <h2>Contact</h2>
+              <p>info@tina-michelle.com</p>
+            </section>
+<!--
+            <section>
+              <h2>Ventures</h2>
+              <p>
+                Tina-Michelle is a private trainer, who taught her dance-fitness classes publicly.  When demand quickly grew, there was a great deal of crossover
+                between her public classes and private sessions.  To accommodate enthusiasts, she evolved Move Your Axis&trade; into the well-rounded program it is today,
+                offering an array of choices for
+                healthy lifestyles.
+              </p>
+              <p>
+                Move Your Axis&trade; is available <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.
+              </p>
+            </section>
+-->
+            <section>
+              <h2>Writings</h2>
+              <p>Tina-Michelle's articles can be found on <a href="https://medium.com/@RhythmNMovement" target="_blank">https://medium.com/@RhythmNMovement</a></p>
+            </section>
+          </div><!-- /page-inner -->
+        </div><!-- /page-right -->
+        <div class="page page-left">
+          <div class="page-inner">
+            <section>
+              <br/><br/>
+              Move Your Axis&trade; is on hold until further notice. For more information, please contact info@moveyouraxis.com.
+            </section>
+<!--
+            <section>
+              <h2>The Program</h2>
+              <p>The <b>MOVE YOUR AXIS&trade;</b> lifestyle program is inspired by cultures around the world. Its features are designed to help achieve personal goals for healthy living. Immerse yourself in a stimulating experience and emerge with a new perspective...</p>
+            </section>
+            <section>
+              <h2>The Experiences</h2>
+              <h3>Bust Your Axis&trade;</h3>
+              <p>The strength and conditioning experience.  Increase strength, speed, and agility with a balanced, full body workout.  Prime for endurance and fire the right muscles.  Enhance athletic performance and everyday function.</p>
+
+              <h3>Flex Your Axis&trade;</h3>
+              <p>The hybrid of the movement and dance, flexibility, and resistance training.  Develop balance and stability with a variety of approaches that help execute movements that are more efficient and controlled.  Challenge muscles and improve elasticity and mobility.</p>
+
+              <h3>Fuel Your Axis&trade;</h3>
+              <p>The nutrition and wellness experience. Uncover tools and resources that facilitate a self-directed lifestyle.  Gain practical skills and awareness of choices in a variety of topics.  Live better.</p>
+
+              <h3>Move Your Axis&trade;</h3>
+              <p>The dance-fitness experience.  The dynamic Move Your Axis™ choreography incorporates dance steps from around the world and delivers an assortment of physiological and psychological benefits.  Learn, laugh, and let go.  Move and be moved by the world around you.</p>
+
+              <h3>Move Your Axis Further&trade;</h3>
+              <p>The movement and dance experience.  The focus on a specific genre(s) allows for more focus on technique and feel.  Discover and explore.  Find inspiration while soaking in culture.</p>
+
+              <h3>Relax Your Axis&trade;</h3>
+              <p>The flexibility experience.  Keep The Bod moving through its full range of motion with methods that aid in restoration and recovery.  Stretch muscles and target trigger points.  Come back to your senses.  Renew and rejuvenate.</p>
+            </section>
+            <section>
+              <h2>Who enjoys Move Your Axis&trade;?</h2>
+              <p>Athletic ninjas, intellectual explorers, and growth seekers (to name a few). Essentially, anyone who is unsatisfied with stagnation.</p>
+              <p> Move Your Axis&trade; enthusiasts have a thirst for new challenges and mastering missions. For them, it’s
+              about the journey. They are the ones who want to step out of their comfort zone and into their life.</p>
+            </section>
+            <section>
+              <h2>Availability</h2>
+              <p>This unique program is exclusively taught by Tina-Michelle and is delivered <a href="http://live.moveyouraxis.com" target="_blank">live</a> and (soon to be) <a href="http://moveyouraxis.com" target="_blank">virtually</a>.</p>
+            </section>
+            <section>
+              <h2>Contact</h2>
+              <p>info@moveyouraxis.com</p>
+            </section>
+-->
+          </div><!-- /page-inner -->
+        </div><!-- /page-left -->
+        <a href="#" class="back back-right" title="back to intro">&rarr;</a>
+        <a href="#" class="back back-left" title="back to intro">&larr;</a>
+      </div><!-- /splitlayout -->
+    </div><!-- /container -->
+    <script src="js/classie.js"></script>
+    <script src="js/cbpSplitLayout.js"></script>
+  </body>
 </html>
