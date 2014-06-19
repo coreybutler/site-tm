@@ -4,7 +4,7 @@ Move Your Axis and private dance instruction need to stay on hold until further 
 
 For those of you who were unaware, I was hit by a truck last summer while I was out running and sustained head to toe injuries.  After taking a financial break, I am back to visiting with my doctors again.  
 
-Unfortunately, we are only able to address two body parts at a time.  Recovery Road is looking to be pretty long and intense since my right foot was the only spared body part.  We're currently determiningg the direction for my right shoulder and knee.
+Unfortunately, we are only able to address two body parts at a time.  Recovery Road is looking to be pretty long and intense since my right foot was the only spared body part.  We're currently determining the direction for my right shoulder and knee.
 
 I will provide an update once things become more clear.  For now, I will offer a [special program](http://tina-michelle.com/movebetter) for anyone interested. 
 
