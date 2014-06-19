@@ -1,4 +1,4 @@
-##**ANNOUNCEMENT REGARDING MOVE YOUR AXIS AND PRIVATE DANCE INSTRUCTION**##
+##**ANNOUNCEMENT**##
 
 Move Your Axis and private dance instruction need to stay on hold until further notice.  It is entirely possible that this will become permanent.  
 
