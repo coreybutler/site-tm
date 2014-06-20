@@ -4,11 +4,6 @@
 #####Note: Dates marked with (*) are available for Screening and Move Better Program 
 
 ---
-| Monday, June 23, 2014 |
-| :----------------------------- |
-| 12:00 p.m. - 3:00 p.m.         |
-
----
 
 | Tuesday, June 24, 2014 |
 | :----------------------------- |
