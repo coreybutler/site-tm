@@ -1,33 +1,18 @@
 # Available Online Only 
 ##(Central Standard Time)##
 *Please contact info@tina-michelle.com with your preferred time and duration.*
-#####Note: Dates marked with (*) are available for Screening and Move Better Program 
 
 ---
 
-| Tuesday, June 24, 2014 |
+| Saturday, June 28, 2014 |
 | :----------------------------- |
-| 3:00 p.m. - 4:00 p.m.         |
-| 5:00 p.m. - 7:00 p.m.         |
-
----
-
-| Thursday, June 26, 2014*   |
-| :----------------------------- |
-| 5:00 p.m. - 7:00 p.m.          |
-
----
-
-| Saturday, June 28, 2014* |
-| :----------------------------- |
-| 6:30 a.m. - 9:00 a.m.          |
 | 5:30 p.m. - 6:30 p.m.          |
 
 ---
 
 | Sunday, June 29, 2014* |
 | :----------------------------- |
-| 7:00 a.m. - 11:00 a.m.         |
+| 7:00 a.m. - 9:00 a.m.         |
 | 5:00 p.m. - 5:30 p.m.          |
 
 ---
