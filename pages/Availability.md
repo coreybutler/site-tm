@@ -2,23 +2,6 @@
 ##(Central Standard Time)##
 *Please contact info@tina-michelle.com with your preferred time and duration.*
 
-
----
-| Tuesday, July 1, 2014 |
-| :----------------------------- |
-| 3:00 p.m. - 4:00 p.m.         |
----
-
-| Wednesday, July 2, 2014 |
-| :----------------------------- |
-| 5:00 p.m. - 7:00 p.m.         |
-
----
-
-| Thursday, July 3, 2014 |
-| :----------------------------- |
-| 3:00 p.m. - 4:00 p.m.         |
-
 ---
 
 | Sunday, July 6, 2014 |
