@@ -3,17 +3,6 @@
 *Please contact info@tina-michelle.com with your preferred time and duration.*
 
 ---
-
-| Sunday, July 6, 2014 |
-| :----------------------------- |
-| 5:00 p.m. - 7:00 p.m.          |
----
-
-| Friday, July 11, 2014 |
-| :----------------------------- |
-| 6:00 p.m. - 7:00 p.m.          |
-
----
 | Saturday, July 12, 2014 |
 | :----------------------------- |
 | 6:30 a.m. - 9:00 a.m.          |
