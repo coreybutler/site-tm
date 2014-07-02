@@ -1,8 +1,4 @@
-# Available Online Only 
-##(Central Standard Time)##
-*Please contact info@tina-michelle.com with your preferred time and duration.*
-
-
+ANNOUNCEMENT:
 
 
 I am currently unavailable until further notice.
