@@ -2,9 +2,7 @@
 
 I am currently unavailable until further notice.
 
-For those of you who were unaware, I was hit by a truck last summer while I was out running and sustained head to toe injuries.  
-
-Recovery Road is looking to be pretty long and intense since my right foot was the only spared body part.  
+For those of you who were unaware, I was hit by a truck last summer while I was out running and sustained head to toe injuries.  Recovery Road is looking to be pretty long and intense.  
 
 I will provide an update once things become more clear.
 
